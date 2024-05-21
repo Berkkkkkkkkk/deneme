@@ -52,4 +52,6 @@ public class QualitydemyStepDefinitions {
     public void giris_yapilamadigini_test_eder() {
         Assert.assertTrue(qualitydemyPage.emailKutusu.isEnabled());
     }
+
+//asdasdasdas
 }
