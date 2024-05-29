@@ -53,5 +53,5 @@ public class QualitydemyStepDefinitions {
         Assert.assertTrue(qualitydemyPage.emailKutusu.isEnabled());
     }
 
-//asdasdasdas
+//asdasdasdasmnbasmdasasd
 }
